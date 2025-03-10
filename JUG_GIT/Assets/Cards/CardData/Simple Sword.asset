@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ba26c0db4c9ef7428c05967590f5adc, type: 3}
+  m_Name: Simple Sword
+  m_EditorClassIdentifier: 
+  cardName: Basic Sword
+  cardArt: {fileID: -4993543893058219007, guid: 0483ba548d774c548bc2e84ec37aa5b3, type: 3}
+  cardTypes: 
+  manaCost: 2
+  baseDamage: 2
+  effects: 
+  effectDuration: 0
+  effectDamage: 0
+  cardRarity: 0
